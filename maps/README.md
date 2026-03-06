@@ -50,10 +50,6 @@
 ## APT & Advanced Threat Tracking
 
 - [APTMAP - Advanced Persistent Threat Map](https://aptmap.netlify.app/) - Interactive map of APT groups and their origins.
-- [APT Index (Kumu)](https://aptindex.com/) - Visualized index of APT groups and their relationships.
-- [Security Wizardry Cyber Threat Intelligence – The Radar Page](https://www.securitywizardry.com/the-radar-page) - Curated cyber threat intelligence radar.
-- [ENISA National Cyber Security Strategies](https://www.enisa.europa.eu/topics/cybersecurity-policy/national-cyber-security-strategies-1) - Overview of national cybersecurity strategies across Europe.
-- [Il Sole 24 ORE Cybersecurity Map](https://www.ilsole24ore.com/speciali/cybersecurity-map/index.shtml) - Cybersecurity incidents mapped by Italian financial newspaper Il Sole 24 ORE.
 
 ## Internet Exposure & Scanning
 
