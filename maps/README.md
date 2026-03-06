@@ -82,12 +82,6 @@
 
 - [pewpew by hrbrmstr](https://github.com/hrbrmstr/pewpew) - Build your own IP attack maps with sound using this open-source tool.
 
----
-
-## Contributing
-
-Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
