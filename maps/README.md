@@ -69,6 +69,7 @@
 ## DIY / Open Source
 
 - [pewpew by hrbrmstr](https://github.com/hrbrmstr/pewpew) - Build your own IP attack maps with sound using this open-source tool.
+- [Another Threat Map by me](https://peterlingin.github.io/console/files/threat_map_v1.html)) - A realistic threat monitoring dashboard inspired by the classic War Games movie aesthetic.
 
 ## License
 
