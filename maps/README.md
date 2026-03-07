@@ -23,11 +23,9 @@
 - [Radware Live Cyber Threat Map](https://livethreatmap.radware.com/) - Live global attack map from Radware.
 - [LIONIC Cyber Threat Map](https://www.lionic.com/threat-map/) - Live cyber threat map by LIONIC (鴻璟科技).
 - [Cisco Talos Cyber Attack Map](https://talosintelligence.com/fullpage_maps/pulse) - Attack map powered by Cisco Talos threat intelligence.
-- [FireEye Cyber Threat Map](https://www.fireeye.com/cyber-map/threat-map.html) - Real-time threat map from FireEye.
 - [Fortinet Threat Map](https://threatmap.fortiguard.com/) - Global cyber threat visualization by Fortinet.
 - [FortiGuard Outbreak Threat Map](https://www.fortiguard.com/outbreak-alert) - Tracks current outbreak threats globally.
 - [Digital Attack Map](https://www.digitalattackmap.com/) - DDoS attack visualization powered by Google Ideas & Arbor Networks.
-- [Sophos ATP Network Threat Prevention](https://map.sophos.com/) - Threat map from Sophos.
 - [Bitdefender Threat Map](https://threatmap.bitdefender.com/) - Real-time cyber threat map by Bitdefender.
 - [Threatbutt Internet Hacking Attack Attribution Map](https://threatbutt.com/map/) - Satirical yet informative attack attribution map.
 
@@ -35,17 +33,13 @@
 
 - [NETSCOUT Cyber Threat Horizon](https://horizon.netscout.com/) - Real-time DDoS attack map from NETSCOUT.
 - [Spamhaus Live Botnet Threats](https://www.spamhaus.com/threat-map/) - Live visualization of botnet threats worldwide.
-- [LookingGlass Threat Map](https://map.lookingglasscyber.com/) - Threat map from LookingGlass Cyber Solutions.
-- [Akamai Internet Station](https://www.akamai.com/internet-station/cyber-attacks) - Real-time internet attack and DDoS data from Akamai.
 
 ## Threat Intelligence Platforms
 
 - [Cloudflare Radar](https://radar.cloudflare.com/) - Internet traffic insights, attack trends, and threat data from Cloudflare.
 - [Shadowserver Foundation Dashboard](https://dashboard.shadowserver.org/) - Comprehensive security data and botnet intelligence.
-- [GreyNoise Threat Map](https://viz.greynoise.io/map) - Visualizes internet background noise and scan activity.
-- [Zscaler ThreatLabz Global Internet Threats](https://www.zscaler.com/threatlabz/global-internet-threats) - Global threat intelligence from Zscaler.
+- [GreyNoise Threat Map](https://threat-map.greynoise.io/) - Visualizes internet background noise and scan activity.
 - [HTTPCS Cyber Attack Map](https://map.httpcs.com/) - Live cyber attack map from HTTPCS.
-- [Global Security Map](https://www.globalsecuritymap.com/) - Worldwide security incidents and threats overview.
 
 ## APT & Advanced Threat Tracking
 
@@ -57,16 +51,14 @@
 - [Shodan 2000](https://2000.shodan.io/) - Real-time visualization of Shodan scan results in a retro style.
 - [NIST RPKI Monitor](https://rpki-monitor.antd.nist.gov/) - Monitors the health of RPKI (Resource Public Key Infrastructure).
 - [ANY.RUN Interactive Malware Analysis Sandbox](https://app.any.run/) - Interactive online sandbox for malware analysis.
-- [Kaspersky ZMAP](https://cybermap.kaspersky.com/subsystems/zmap) - Internet mapping visualization by Kaspersky.
+- [Kaspersky ZMAP](https://cybermap.kaspersky.com/) - Internet mapping visualization by Kaspersky.
 
 ## Network Visualizations
 
 - [TorFlow](https://torflow.uncharted.software/) - Visualization of traffic flows across the Tor network.
 - [HE 3D Network Map](https://he.net/3d-map/) - 3D visualization of Hurricane Electric's global network.
-- [Bitcoin Traffic Visualization](https://bitcoinvisual.sl/) - Real-time visualization of Bitcoin network transactions.
 - [SonicWall Security Center](https://securitycenter.sonicwall.com/) - Live threat intelligence and attack feeds from SonicWall.
 - [Sicherheitstacho (Security Speedometer)](https://sicherheitstacho.eu/) - German internet security speedometer tracking attack levels.
-- [Blueliv Cyber Threat Map](https://community.blueliv.com/#!/map) - Threat intelligence map from Blueliv.
 
 ## Statistics & Analytics
 
