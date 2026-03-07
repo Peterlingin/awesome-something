@@ -21,7 +21,7 @@
 
 - [Check Point Live Cyber Attack Threat Map](https://threatmap.checkpoint.com/) - Real-time visualization of cyber attacks worldwide by Check Point Software.
 - [Radware Live Cyber Threat Map](https://livethreatmap.radware.com/) - Live global attack map from Radware.
-- [LIONIC Cyber Threat Map](https://www.lionic.com/threatmap/) - Live cyber threat map by LIONIC (鴻璟科技).
+- [LIONIC Cyber Threat Map](https://www.lionic.com/threat-map/) - Live cyber threat map by LIONIC (鴻璟科技).
 - [Cisco Talos Cyber Attack Map](https://talosintelligence.com/fullpage_maps/pulse) - Attack map powered by Cisco Talos threat intelligence.
 - [FireEye Cyber Threat Map](https://www.fireeye.com/cyber-map/threat-map.html) - Real-time threat map from FireEye.
 - [Fortinet Threat Map](https://threatmap.fortiguard.com/) - Global cyber threat visualization by Fortinet.
