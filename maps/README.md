@@ -1,4 +1,4 @@
-# Awesome Threat Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Threat Maps 🌍
 
 > A curated list of cyber threat maps, attack visualizations, and real-time security intelligence dashboards. Some are useless, some look impressive, and a few actually help. Still, they’re perfect for a few situations: impressing customers, entertaining your siblings during painfully dull Christmas dinners, or confidently pretending you’re an expert on the “ever-changing threat landscape.” Whatever that means.
 
