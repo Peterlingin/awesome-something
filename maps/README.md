@@ -27,7 +27,6 @@
 - [FortiGuard Outbreak Threat Map](https://www.fortiguard.com/outbreak-alert) - Tracks current outbreak threats globally.
 - [Digital Attack Map](https://www.digitalattackmap.com/) - DDoS attack visualization powered by Google Ideas & Arbor Networks.
 - [Bitdefender Threat Map](https://threatmap.bitdefender.com/) - Real-time cyber threat map by Bitdefender.
-- [Threatbutt Internet Hacking Attack Attribution Map](https://threatbutt.com/map/) - Satirical yet informative attack attribution map.
 
 ## DDoS & Botnet Maps
 
